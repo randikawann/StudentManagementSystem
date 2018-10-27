@@ -1,0 +1,18 @@
+*{
+  margin-top: 10px;
+}
+
+.right-nav{
+  margin-right: 30px;
+}
+
+/* SignIn Component */
+
+.signUpform{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.signInform{
+  padding-left: 300px;
+  padding-right: 300px;
+}
